@@ -2,6 +2,7 @@
 
 ###########################################################################
 # The method `palindrome` prints the given string is palindrome or not
+# without using Ruby `String` methods. Use your own algorithms.
 #     apple, -> false
 #     sky, -> false
 #     madam, -> true

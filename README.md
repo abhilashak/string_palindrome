@@ -3,7 +3,7 @@
 
 ## Description
 
-The method `palindrome` checks whether the given string is a palindrome. A **palindrome** is a word that reads the same forwards and backwards.
+The method `palindrome` checks whether the given string is a palindrome or not without using Ruby `String` methods. Use your own algorithms. A **palindrome** is a word that reads the same forwards and backwards.
 
 ### Examples:
 

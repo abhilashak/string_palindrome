@@ -3,13 +3,14 @@
 require 'minitest/autorun'
 require_relative 'str_palindrome'
 
-#################################################################
-# This is the test suite for palindrome string checking
+#####################################################################
+# This is the test suite for checking a string is palindrome
+# or not without using Ruby `String` methods. Use your own algorithms
 #    The test cases are written by the minitest framework
 #    The test cases are written in a way that they can run using:
 #        Str.new('s').palindrome
 #        Str.new('asesaw').palindrome
-#################################################################
+#####################################################################
 class TestStrPalindrome < Minitest::Test
   def set_up
     @empty_string = @string.empty?
